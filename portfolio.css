@@ -25,10 +25,10 @@ header {
 
 h1 {
     font-size: 60px;
-    color: #f761d9; /* neon pink */
+    color: #fd70df; /* neon pink */
     font-family: 'Orbitron', sans-serif;
     margin-bottom: 10px;
-    text-shadow: 0 0 10px #ff50dc, 0 0 20px #fc5fdc;
+    text-shadow: 0 0 6px #f800c6, 0 0 20px #b1008d;
 }
 
 .Title {
